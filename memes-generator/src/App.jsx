@@ -7,6 +7,8 @@ export default function App() {
         <div>
             <Header />
             <Meme />
+            <div>Whoo hoo</div>
         </div>
+        
     )
 }
